@@ -109,7 +109,7 @@ function sendTransaction(isAdding) {
   transactions.unshift(transaction);
 
   // re-run logic to populate ui with new record
-
+  // populateChart();
   populateTable();
   populateTotal();
 
