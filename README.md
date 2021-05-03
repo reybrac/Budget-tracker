@@ -20,7 +20,7 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 Click on the deployed site link and start recording deposits and withdrawals.
 
-https://reybrac-workout-tracker.herokuapp.com/
+https://reybrac-budget-tracker.herokuapp.com/
 
 ## Usage information:
 
