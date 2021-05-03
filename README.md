@@ -27,7 +27,7 @@ https://techno1-blog.herokuapp.com/
 Giving users a fast and easy way to track their money. When the user is on the budget tracker app without internet connection they can input withdrawals or deposits. When the connection is back the information is added to their transaction history.
 
 Screenshots of working website:
-![screenshot of working application](https://github.com/reybrac/Tech-blog/blob/main/public/images/TechBlog1.JPG?raw=true)
+![screenshot of working application](https://github.com/reybrac/Budget-tracker/blob/main/public/icons/Budget-tracker.JPG?raw=true)
 
 ## Contribution guidelines:
 
